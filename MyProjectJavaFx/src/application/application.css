@@ -1,0 +1,12 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.btnHBox{
+	-fx-background-color: #FFCA0D;
+	-fx-border-color: #FFCA0D;
+	-fx-text-fill: white;
+}
+
+.titulos{
+	-fx-font-family:"Cormorant Garamond";
+	-fx-font-size: 26px;
+	
+}

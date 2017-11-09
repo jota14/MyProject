@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="202.0" prefWidth="475.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.141">
+   <children>
+      <ImageView fitHeight="379.0" fitWidth="506.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="53.97540283203125" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@../view/image/refugees.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
