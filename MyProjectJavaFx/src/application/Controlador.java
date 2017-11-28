@@ -19,6 +19,7 @@ public class Controlador {
     @FXML
     private Button btnLive;
 
+    
     @FXML
     void abrirImg(ActionEvent event) {
     
