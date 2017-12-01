@@ -11,6 +11,13 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
+/**
+ * 
+ * @author Jozet
+ * @version 1.0
+ *
+ */
+
 public class Controlador {
 	AnchorPane anchor;
     @FXML
@@ -19,7 +26,10 @@ public class Controlador {
     @FXML
     private Button btnLive;
 
-    
+    /**
+     * En este metodo llamaremos a una nueva vista y la mostraremos.
+     * 
+     */
     @FXML
     void abrirImg(ActionEvent event) {
     
@@ -39,6 +49,10 @@ public class Controlador {
 		}
     }
 
+    /**
+     *  
+     * En este metodo cerramos la ventana
+     */
     @FXML
     void cerrarVentana(ActionEvent event) {
     	Platform.exit();
